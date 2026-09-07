@@ -1,0 +1,6 @@
+COEN243, Programming Methodology I, 3
+COEN231, Introduction to Discrete Mathematics, 3
+COEN212, Digital Systems and Design, 3
+ENGR202, Sustainable Development, 2
+ENGR213, Applied Ordinary Differential Equations, 3
+WIWS001, Intruduction to the Wild West, 6

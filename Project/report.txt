@@ -1,0 +1,83 @@
+------------Student Report------------
+Student ID: 40311926
+First Name: Syed
+Last Name: Ali
+Date of Birth: 27/11/2006
+Average Grade: 93.25/100
+
+Enrolled Courses for Syed Ali: 
+Course 1:
+  Course Code: COEN243
+  Course Title: Programming Methodology I
+  Credits: 3
+  Final Grade: 99.00
+
+Course 2:
+  Course Code: COEN231
+  Course Title: Introduction to Discrete Mathematics
+  Credits: 3
+  Final Grade: 82.00
+
+Course 3:
+  Course Code: ENGR202
+  Course Title: Sustainable Development
+  Credits: 2
+  Final Grade: 100.00
+
+Course 4:
+  Course Code: ENGR213
+  Course Title: Applied Ordinary Differential Equations
+  Credits: 3
+  Final Grade: 92.00
+
+Student ID: 40304999
+First Name: Louis
+Last Name: Brillu
+Date of Birth: 10/08/2005
+Average Grade: 89.50/100
+
+Enrolled Courses for Louis Brillu: 
+Course 1:
+  Course Code: COEN243
+  Course Title: Programming Methodology I
+  Credits: 3
+  Final Grade: 98.00
+
+Course 2:
+  Course Code: COEN212
+  Course Title: Digital Systems and Design
+  Credits: 3
+  Final Grade: 81.00
+
+Student ID: 10301012
+First Name: Jane
+Last Name: Doe
+Date of Birth: 2/08/2009
+Average Grade: 55.00/100
+
+Enrolled Courses for Jane Doe: 
+Course 1:
+  Course Code: ENGR202
+  Course Title: Sustainable Development
+  Credits: 2
+  Final Grade: 23.00
+
+Course 2:
+  Course Code: COEN243
+  Course Title: Programming Methodology I
+  Credits: 3
+  Final Grade: 87.00
+
+Student ID: 10109871
+First Name: Arthur
+Last Name: Morgan
+Date of Birth: 10/12/1887
+Average Grade: 76.00/100
+
+Enrolled Courses for Arthur Morgan: 
+Course 1:
+  Course Code: WIWS001
+  Course Title: Intruduction to the Wild West
+  Credits: 6
+  Final Grade: 76.00
+

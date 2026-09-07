@@ -1,5 +1,5 @@
 ------------Student Report------------
-Student ID: 40311926
+Student ID: 40300001
 First Name: Syed
 Last Name: Ali
 Date of Birth: 27/11/2006
@@ -30,7 +30,7 @@ Course 4:
   Credits: 3
   Final Grade: 92.00
 
-Student ID: 40304999
+Student ID: 40300002
 First Name: Louis
 Last Name: Brillu
 Date of Birth: 10/08/2005

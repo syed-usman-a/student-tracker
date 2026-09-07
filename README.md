@@ -1,4 +1,4 @@
-//Syed Usman Ali 40311926 & Louis Brillu 40304999
+//
 This program allows users to input 3 files that include one file for student information, one file for course information, and one file that links students to their respective courses,
 the program then allows the user to generate a new text file called report.txt which includes a report of all students and the classes they are registered in,
 then the user is able to request to output the student with the highest average grade, manually search for a student via their student ID and modify student attributes.
@@ -11,7 +11,7 @@ File Format Instructions (Sample Files Are Included):
     Student ID, First Name, Last Name, Date of Birth
     (int, string, string ,string)
     example:
-    (40311926, Syed Usman, Ali, 27/11/2006)
+    (40300001, Syed Usman, Ali, 27/11/2006)
 
     courses.txt:
     Course code followed by the course title followed by the number of credits awarded for completing the course.
@@ -25,7 +25,7 @@ File Format Instructions (Sample Files Are Included):
     Student ID, Course Code, Final Grade
     (int, string, float)
     example:
-    (40311926, COEN243, 100.0)
+    (40300001, COEN243, 100.0)
 
 executable is already provided, if you wish to create one your self here are the instructions below: 
 Compilation Instructions:

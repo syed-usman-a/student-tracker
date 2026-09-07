@@ -1,4 +1,3 @@
-//Syed Usman Ali 40311926 & Louis Brillu 40304999
 //Part 1 Class Design
 #ifndef COURSE_H
 #define COURSE_H
